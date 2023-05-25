@@ -128,3 +128,40 @@ a {
     margin-top: 0;
     font-size: 20px;
 }
+
+/****** FOURTH LAYER *******/
+
+.fourth {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.bluediv {
+    background-color: #3882F6;
+    width: 600px;
+    height: 100px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.calltoaction {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.signuptext {
+    color: white;
+    font-size: 12px;
+    margin: 0;
+}
+
+.signuplow {
+    border: white solid;
+}
