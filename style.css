@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin: auto;
 }
 .top {
     background-color: #1F2937;
@@ -164,4 +165,20 @@ a {
 
 .signuplow {
     border: white solid;
+}
+
+/******* FOOTER ******/
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.copyright {
+    color: #F9FAF8;
+    font-weight: 300;
+    font-size: 12px;
 }
